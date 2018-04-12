@@ -1,0 +1,57 @@
+@import '~antd/dist/antd.css';
+
+.ant-card-meta-title {
+  font-size: 2em;
+  font-weight: 200;
+}
+
+.ant-tabs-content {
+  text-align: left;
+}
+
+.ant-card-body {
+  text-align: center;
+}
+
+.ant-card-meta-avatar {
+  float: none;
+}
+
+.ant-card-meta-avatar > span {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin-bottom: 10px;
+}
+
+.ant-card-actions .anticon {
+  font-size: 16px;
+}
+
+.submit-button {
+  width: 100%;
+}
+
+.ant-form-item:last-child {
+  margin-bottom: 0;
+}
+
+.ant-input-prefix {
+  color: rgba(0, 0, 0, .25);
+}
+
+.typing {
+  font-family: monospace;
+  margin: 10px 0;
+}
+
+.accordion-date {
+  float: right;
+}
+
+@media only screen and (max-width: 500px) {
+  .accordion-date {
+    float: none;
+    display: block;
+  }
+}

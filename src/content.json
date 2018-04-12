@@ -1,0 +1,173 @@
+{
+  "education": [
+    {
+      "title": "University of Waterloo",
+      "date": "2014 - 2019 (expected)",
+      "points": [
+        "Candidate for Honours Bachelor of Computer Science (co-op)"
+      ],
+      "courses": [
+        {
+          "label": "Semester 4A",
+          "courses": [
+            "Computer Networks",
+            "Numerical Computation",
+            "Microeconomic Theory for Business",
+            "Entrepreneurship Principles",
+            "Genetics"
+          ]
+        },
+        {
+          "label": "Semester 3B",
+          "courses": [
+            "Introduction to Artificial Intelligence",
+            "Computer Security and Privacy",
+            "Introduction to Game Theory",
+            "Money and Banking 1",
+            "The Physics of How Things Work"
+          ]
+        },
+        {
+          "label": "Semester 3A",
+          "courses": [
+            "Algorithms",
+            "User Interfaces",
+            "Operating Systems",
+            "Statistics",
+            "Economics of Sport"
+          ]
+        },
+        {
+          "label": "Semester 2B",
+          "courses": [
+            "Data Structures and Data Management",
+            "Foundations of Sequential Programs",
+            "Computer Organization and Design",
+            "Intro to Combinatorics",
+            "Classical Mythology"
+          ]
+        },
+        {
+          "label": "Semester 2A",
+          "courses": [
+            "Object-Oriented Software Development",
+            "Logic and Computation",
+            "Probability",
+            "Intro to Microeconomics",
+            "Commercial and Business Law"
+          ]
+        },
+        {
+          "label": "Semester 1B",
+          "courses": [
+            "Elementary Algorithm Design and Data Abstraction",
+            "Linear Algebra 1",
+            "Calculus 2",
+            "Intro to Macroeconomics",
+            "Physics 1"
+          ]
+        },
+        {
+          "label": "Semester 1A",
+          "courses": [
+            "Designing Functional Programs",
+            "Algebra",
+            "Calculus 1",
+            "Interpersonal Communication",
+            "Intro to Government"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Havard University",
+      "date": "2013",
+      "points": [
+        "Summer course on computer science and Java"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "link": {
+        "label": "Yahoo",
+        "url": "https://yahoo.com"
+      },
+      "date": "January 2018 - April 2018",
+      "points": [
+        "Built React-based data visualization components",
+        "Improved multiple tools for creating push message campaigns on mobile analytics platform",
+        "Upgraded Flurry front-end codebase to React 16"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "link": {
+        "label": "UCIC",
+        "url": "http://www.ucic.io"
+      },
+      "date": "May 2017 - August 2017",
+      "points": [
+        "Integrated Bing speech-to-text and text-to-speech services into a voice interaction product",
+        "Helped to develop an Amazon Alexa Voice Services platform for Raspberry Pi",
+        "Programmed a Raspberry Pi to record audio and automatically upload to Dropbox when plugged into a phone"
+      ]
+    },
+    {
+      "title": "Full-Stack Engineer",
+      "link": {
+        "label": "Yelp",
+        "url": "https://yelp.com"
+      },
+      "date": "August 2016 - December 2016",
+      "points": [
+        "Implemented a new user privacy setting, allowing users to opt-out of tracking",
+        "Ran UI experiments on ads, analyzed results, and implemented the most successful experiment cohorts",
+        "Wrote unit tests and performed code reviews"
+      ]
+    },
+    {
+      "title": "Full-Stack Engineer",
+      "link": {
+        "label": "Statflo",
+        "url": "https://statflo.com"
+      },
+      "date": "January 2016 - April 2016",
+      "points": [
+        "Designed, implemented, and launched a walkthrough of the web-app for new users",
+        "Built a React table component from scratch, including row limits, pagination, search, and sorting",
+        "Built several data reporting tools, providing users with meaningful and relevant data",
+        "Integrated Zendesk services into the web-app, improving customer support experience for clients"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "link": {
+        "label": "TheRedPin",
+        "url": "https://www.theredpin.com"
+      },
+      "date": "May 2015 - August 2015",
+      "points": [
+        "Wrote service to save all company calls from VoIP phone service in Salesforce",
+        "Created a sales metrics dashboard for managers",
+        "Built an internal announcement broadcasting tool",
+        "Proposed & implemented a new, simpler customer survey system, while adding functionality and improving UI"
+      ]
+    }
+  ],
+  "skills": [
+    "Languages: Python, JavaScript, Java, C++, C, PHP",
+    "Cryptography",
+    "Amazon Web Services",
+    "SQL",
+    "HTML/CSS",
+    "ReactJS",
+    "Linux"
+  ],
+  "name": "Russell Waldman",
+  "headshot": "/headshot.jpg",
+  "github": "https://github.com/rwaldman",
+  "linkedin": "https://linkedin.com/in/russellwaldman"
+}
+
