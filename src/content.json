@@ -89,16 +89,16 @@
   ],
   "experience": [
     {
-      "title": "Software Engineer",
+      "title": "Front-End Engineer",
       "link": {
-        "label": "Yahoo",
-        "url": "https://yahoo.com"
+        "label": "Oath",
+        "url": "https://oath.com"
       },
       "date": "January 2018 - April 2018",
       "points": [
         "Built React-based data visualization components",
-        "Improved multiple tools for creating push message campaigns on mobile analytics platform",
-        "Upgraded Flurry front-end codebase to React 16"
+        "Improved tools for creating push message campaigns on Flurry platform",
+        "Refactored code to use best practices and updated dependencies"
       ]
     },
     {
