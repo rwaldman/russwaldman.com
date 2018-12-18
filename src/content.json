@@ -8,6 +8,16 @@
       ],
       "courses": [
         {
+          "label": "Semester 4B",
+          "courses": [
+            "Applied Cryptography",
+            "Distributed Systems",
+            "International Finance",
+            "Computational Techniques in Biological Sequence Analysis",
+            "Introductory Financial Mathematics"
+          ]
+        },
+        {
           "label": "Semester 4A",
           "courses": [
             "Computer Networks",
@@ -88,6 +98,20 @@
     }
   ],
   "experience": [
+    {
+      "title": "Cybersecurity Engineer",
+      "link": {
+        "label": "PokerStars",
+        "url": "https://pokerstars.com"
+      },
+      "date": "September 2018 - present",
+      "points": [
+        "Analyzed security products on the market to assess potential benefit and find vulnerabilities",
+        "Performed website penetration testing",
+        "Researched and developed systems to protect web API",
+        "Integrated static analysis tools into build process"
+      ]
+    },
     {
       "title": "Front-End Engineer",
       "link": {

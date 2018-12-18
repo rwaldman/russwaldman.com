@@ -9,7 +9,7 @@ export default ({ data }) => (
         header={(
           <div>
             {title}{link && ' | '}
-            {link && <a target="_blank" href={link.url}>{link.label}</a>}
+            {link && <a target="_blank" rel="noopener noreferrer" href={link.url}>{link.label}</a>}
             <span className="accordion-date">{date}</span>
           </div>
         )}
