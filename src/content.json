@@ -4,7 +4,9 @@
       "title": "University of Waterloo",
       "date": "2014 - 2019 (expected)",
       "points": [
-        "Candidate for Honours Bachelor of Computer Science (co-op)"
+        "Candidate for Honours Bachelor of Computer Science (co-op) with a minor in economics",
+        "Currently in final semester",
+        "GPA: 3.7"
       ],
       "courses": [
         {
@@ -90,104 +92,100 @@
       ]
     },
     {
-      "title": "Havard University",
+      "title": "Harvard University",
       "date": "2013",
       "points": [
-        "Summer course on computer science and Java"
+        "Two summer courses: Computer Science with Java, Fundamentals of Music",
+        "GPA: 4.0"
       ]
     }
   ],
   "experience": [
     {
-      "title": "Cybersecurity Engineer",
+      "title": "Cyber Security Engineering Intern",
       "link": {
         "label": "PokerStars",
         "url": "https://pokerstars.com"
       },
       "date": "September 2018 - present",
       "points": [
-        "Analyzed security products on the market to assess potential benefit and find vulnerabilities",
-        "Performed website penetration testing",
-        "Researched and developed systems to protect web API",
-        "Integrated static analysis tools into build process"
+        "Discovered a vulnerability in a third party security product, and built an in-house secure replacement using C++ and JavaScript",
+        "Performed website penetration testing using Kali Linux, and generated risk reports",
+        "Integrated static analysis tools into build process, improving code quality"
       ]
     },
     {
-      "title": "Front-End Engineer",
+      "title": "Front-End Engineering Intern",
       "link": {
-        "label": "Oath",
-        "url": "https://oath.com"
+        "label": "Yahoo",
+        "url": "https://yahoo.com"
       },
       "date": "January 2018 - April 2018",
       "points": [
         "Built React-based data visualization components",
-        "Improved tools for creating push message campaigns on Flurry platform",
-        "Refactored code to use best practices and updated dependencies"
+        "Deployed new tools for creating push message campaigns on Flurry platform",
+        "Refactored JavaScript code to use best practices and updated dependencies"
       ]
     },
     {
-      "title": "Software Engineer",
+      "title": "Software Engineering Intern",
       "link": {
         "label": "UCIC",
-        "url": "http://www.ucic.io"
+        "url": "http://ucic.io"
       },
       "date": "May 2017 - August 2017",
       "points": [
-        "Integrated Bing speech-to-text and text-to-speech services into a voice interaction product",
-        "Helped to develop an Amazon Alexa Voice Services platform for Raspberry Pi",
-        "Programmed a Raspberry Pi to record audio and automatically upload to Dropbox when plugged into a phone"
+        "Integrated Bing speech-to-text and text-to-speech services into voice interaction product using Java",
+        "Developed an Amazon Alexa Voice Service client for Raspberry Pi using Java and Node.js",
+        "Programmed a Raspberry Pi to record phone conversations and upload to Dropbox"
       ]
     },
     {
-      "title": "Full-Stack Engineer",
+      "title": "Full-Stack Engineering Intern",
       "link": {
         "label": "Yelp",
         "url": "https://yelp.com"
       },
       "date": "August 2016 - December 2016",
       "points": [
-        "Implemented a new user privacy setting, allowing users to opt-out of tracking",
-        "Ran UI experiments on ads, analyzed results, and implemented the most successful experiment cohorts",
-        "Wrote unit tests and performed code reviews"
+        "Implemented a new user privacy setting with Python and PostgreSQL, allowing users to opt-out of ad tracking",
+        "Deployed and analyzed UI experiments on ads, resulting in an 11% increase in click-through rate",
+        "Wrote unit tests using Python, and performed code reviews"
       ]
     },
     {
-      "title": "Full-Stack Engineer",
+      "title": "Full-Stack Engineering Intern",
       "link": {
         "label": "Statflo",
         "url": "https://statflo.com"
       },
       "date": "January 2016 - April 2016",
       "points": [
-        "Designed, implemented, and launched a walkthrough of the web-app for new users",
-        "Built a React table component from scratch, including row limits, pagination, search, and sorting",
-        "Built several data reporting tools, providing users with meaningful and relevant data",
-        "Integrated Zendesk services into the web-app, improving customer support experience for clients"
+        "Developed a walkthrough of the web-app for new users, using jQuery and Bootstrap",
+        "Built a React-based table component, including row limits, pagination, search, and sorting",
+        "Created several data reporting tools using PHP and MySQL, providing users with meaningful and relevant data",
+        "Integrated the Zendesk customer service platform into the web-app, improving support experience for clients"
       ]
     },
     {
-      "title": "Software Engineer",
+      "title": "Software Engineering Intern",
       "link": {
         "label": "TheRedPin",
         "url": "https://www.theredpin.com"
       },
       "date": "May 2015 - August 2015",
       "points": [
-        "Wrote service to save all company calls from VoIP phone service in Salesforce",
-        "Created a sales metrics dashboard for managers",
-        "Built an internal announcement broadcasting tool",
-        "Proposed & implemented a new, simpler customer survey system, while adding functionality and improving UI"
+        "Developed a Java service to save call recordings in Salesforce",
+        "Created a sales metrics dashboard for managers, automating a long and expensive manual process",
+        "Implemented a Java tool to back up critical documents from Salesforce to AWS S3",
+        "Proposed & implemented a new customer survey system, adding functionality and improving UI"
       ]
     }
   ],
   "skills": [
-    "Languages: Python, JavaScript, Java, C++, C, PHP",
-    "Cryptography",
-    "Amazon Web Services",
-    "SQL",
-    "HTML/CSS",
-    "ReactJS",
-    "Linux"
+    "Programming languages: Python, JavaScript, Java, C++, PHP",
+    "Web development: HTML, CSS, React, jQuery, Bootstrap",
+    "Other: AWS, SQL, Git, Linux"
   ],
   "name": "Russell Waldman",
   "headshot": "/headshot.jpg",

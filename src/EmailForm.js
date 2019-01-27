@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Button, Form, Icon, Input, message, Modal } from 'antd';
 import axios from 'axios';
 
+// TODO: submission is broken, needs to be fixed before re-enabling
 class EmailForm extends Component {
   state = { visible: false }
 
@@ -36,9 +37,6 @@ class EmailForm extends Component {
           footer={null}
         >
           <Form onSubmit={this.handleSubmit} className="login-form">
-            <p>
-              To communicate over a secure channel, ask me for my ProtonMail address or Signal number
-            </p>
             <Form.Item>
               {getFieldDecorator('name', {
                 rules: [{ required: true, message: 'Please enter your name' }],

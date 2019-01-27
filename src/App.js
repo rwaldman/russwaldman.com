@@ -9,7 +9,9 @@ export default () => (
   <div>
     <Card
       actions={[
-        <EmailForm />,
+        <a href="mailto:rgcw96@gmail.com">
+          <Icon type="mail" />
+        </a>/* submission API broken <EmailForm />*/,
         <a target="_blank" rel="noopener noreferrer" href={github}>
           <Icon type="github" />
         </a>,
