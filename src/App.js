@@ -10,13 +10,13 @@ export default () => (
     <Card
       actions={[
         <a href="mailto:rgcw96@gmail.com">
-          <Icon type="mail" />
+          <Icon type="mail" theme="filled" />
         </a>/* submission API broken <EmailForm />*/,
         <a target="_blank" rel="noopener noreferrer" href={github}>
-          <Icon type="github" />
+          <Icon type="github" theme="filled" />
         </a>,
         <a target="_blank" rel="noopener noreferrer" href={linkedin}>
-          <Icon type="linkedin" />
+          <Icon type="linkedin" theme="filled" />
         </a>
       ]}
     >
