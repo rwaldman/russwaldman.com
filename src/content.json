@@ -110,6 +110,7 @@
       "date": "September 2018 - present",
       "points": [
         "Discovered a vulnerability in a third party security product, and built an in-house secure replacement using C++ and JavaScript",
+        "Built system to repel credential stuffing attacks, which reduced the load on servers by up to 99.5%",
         "Performed website penetration testing using Kali Linux, and generated risk reports",
         "Integrated static analysis tools into build process, improving code quality"
       ]
