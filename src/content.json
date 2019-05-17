@@ -2,10 +2,10 @@
   "education": [
     {
       "title": "University of Waterloo",
-      "date": "2014 - 2019 (expected)",
+      "date": "2014 - 2019",
       "points": [
-        "Candidate for Honours Bachelor of Computer Science (co-op) with a minor in economics",
-        "Currently in final semester",
+        "Honours Bachelor of Computer Science (Co-operative Program)",
+        "Economics minor",
         "GPA: 3.7"
       ],
       "courses": [
@@ -107,9 +107,10 @@
         "label": "PokerStars",
         "url": "https://pokerstars.com"
       },
-      "date": "September 2018 - present",
+      "date": "September 2018 - April 2019",
       "points": [
         "Discovered a vulnerability in a third party security product, and built an in-house secure replacement using C++ and JavaScript",
+        "Built protection against bots into the web API to counteract credential-stuffing attacks, reducing load on server by up to 95%",
         "Performed website penetration testing using Kali Linux, and generated risk reports",
         "Integrated static analysis tools into build process, improving code quality"
       ]
