@@ -102,6 +102,17 @@
   ],
   "experience": [
     {
+      "title": "Forward Deployed Engineer",
+      "link": {
+        "label": "Palantir",
+        "url": "https://palantir.com"
+      },
+      "date": "July 2019 - Present",
+      "points": [
+        "TBD"
+      ]
+    },
+    {
       "title": "Cyber Security Engineering Intern",
       "link": {
         "label": "PokerStars",
